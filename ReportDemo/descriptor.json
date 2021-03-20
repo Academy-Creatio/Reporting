@@ -1,0 +1,17 @@
+﻿{
+  "Descriptor": {
+    "UId": "371d1af4-4bde-4242-823f-303fa018a8b1",
+    "PackageVersion": "7.8.0",
+    "Name": "ReportDemo",
+    "ModifiedOnUtc": "\/Date(1616048290000)\/",
+    "Maintainer": "Customer",
+    "Description": "Creatio Reporting with FastReports demo\nhttps://github.com/Academy-Creatio/Reporting",
+    "DependsOn": [
+      {
+        "UId": "2fabaf6c-0f92-4530-aef8-40345c021da2",
+        "PackageVersion": "7.8.0",
+        "Name": "ProductCore"
+      }
+    ]
+  }
+}

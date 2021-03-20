@@ -1,0 +1,28 @@
+﻿{
+  "Descriptor": {
+    "UId": "13e17b9c-3f62-0510-9c50-bd9dc2e7808e",
+    "Name": "FastReportTemplate",
+    "ModifiedOnUtc": "\/Date(1616166148000)\/",
+    "InstallType": 0,
+    "Schema": {
+      "UId": "05ba10ee-d7af-4596-b947-87d2dcf5f820",
+      "Name": "FastReportTemplate"
+    },
+    "Columns": [
+      {
+        "ColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+        "IsForceUpdate": false,
+        "IsKey": true,
+        "ColumnName": "Id",
+        "DataTypeValueUId": "23018567-a13c-4320-8687-fd6f9e3699bd"
+      },
+      {
+        "ColumnUId": "12ab8df2-78ec-4bff-9b1d-3a8d451dd5e7",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "Data",
+        "DataTypeValueUId": "c0f04627-4620-4bc0-84e5-9419dc8516b1"
+      }
+    ]
+  }
+}

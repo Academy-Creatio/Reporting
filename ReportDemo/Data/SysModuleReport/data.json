@@ -1,0 +1,70 @@
+﻿{
+  "PackageData": [
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "c7b890da-8794-4706-06a3-80cd9b41b5a1"
+        },
+        {
+          "SchemaColumnUId": "b99f16cb-925d-48f2-94e9-98f9eb249048",
+          "Value": false
+        },
+        {
+          "SchemaColumnUId": "5c6855ee-1bce-4a62-901b-50482def049b",
+          "Value": ""
+        },
+        {
+          "SchemaColumnUId": "025ae038-8c4b-46b8-8d94-239ef3ac7911",
+          "Value": false
+        },
+        {
+          "SchemaColumnUId": "cb6b495c-384d-4a40-9f93-35c6dfb79a3b",
+          "Value": ""
+        },
+        {
+          "SchemaColumnUId": "362bb0b0-d3da-4b01-abe6-a617e1b1257f",
+          "Value": ""
+        },
+        {
+          "SchemaColumnUId": "aba36b7e-96c2-4005-a9b9-64ceee36aaac",
+          "Value": ""
+        },
+        {
+          "SchemaColumnUId": "60588e53-4a6b-ea00-a7a9-a6340b8a3288",
+          "Value": ""
+        },
+        {
+          "SchemaColumnUId": "b6607c22-ca01-41f0-8637-610221a869b6",
+          "Value": "065063c9-8180-e011-afbc-00155d04320c",
+          "DisplayValue": "Contacts"
+        },
+        {
+          "SchemaColumnUId": "9a75dacc-e0b6-456c-af91-1a1a369eaa3b",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "3b976c18-5bfe-482a-8ac1-a9377075a627",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "94f2a9f7-55c7-4ecf-9b64-17583ddc058b",
+          "Value": "8def0f6d-b075-41dd-bcad-ca660c29f2e2",
+          "DisplayValue": "FastReport"
+        },
+        {
+          "SchemaColumnUId": "e6df7487-eab8-49eb-8f5b-e8a222db5de3",
+          "Value": "null"
+        },
+        {
+          "SchemaColumnUId": "8e01622f-e04b-480a-859a-01df55c30729",
+          "Value": "13ed7c55-d4b5-46ad-66ea-caf49772e3ab"
+        },
+        {
+          "SchemaColumnUId": "1f17f6cb-8a86-408c-9207-d2f8b22ae1b7",
+          "Value": "null"
+        }
+      ]
+    }
+  ]
+}

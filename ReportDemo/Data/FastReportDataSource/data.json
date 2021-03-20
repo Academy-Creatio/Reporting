@@ -1,0 +1,30 @@
+﻿{
+  "PackageData": [
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "b66b543e-e898-968b-4632-50631da3ed1b"
+        },
+        {
+          "SchemaColumnUId": "8280c0b2-8af4-45f1-8734-d547fc37d697",
+          "Value": "{\n\t\"ProviderName\": \"ContactReportDataProvider\",\n\t\"Schemas\": {\n\t\t\"Contact\": {\n\t\t\t\"Id\": {\n\t\t\t\t\"DataValueType\": 0\n\t\t\t},\n\t\t\t\"Name\": {\n\t\t\t\t\"DataValueType\": 1\n\t\t\t},\n\t\t\t\"Phone\": {\n\t\t\t\t\"DataValueType\": 1\n\t\t\t},\n\t\t\t\"HomePhone\": {\n\t\t\t\t\"DataValueType\": 1\n\t\t\t},\n\t\t\t\"MobilePhone\": {\n\t\t\t\t\"DataValueType\": 1\n\t\t\t},\n\t\t\t\"OwnerName\": {\n\t\t\t\t\"DataValueType\": 1\n\t\t\t},\n\t\t\t\"Email\": {\n\t\t\t\t\"DataValueType\": 1\n\t\t\t},\n\t\t\t\"Address\": {\n\t\t\t\t\"DataValueType\": 1\n\t\t\t},\n\t\t\t\"Zip\": {\n\t\t\t\t\"DataValueType\": 1\n\t\t\t},\n\t\t\t\"Country\":{\n\t\t\t\t\"DataValueType\": 1\n\t\t\t},\n\t\t\t\"Region\":{\n\t\t\t\t\"DataValueType\": 1\n\t\t\t},\n\t\t\t\"City\":{\n\t\t\t\t\"DataValueType\": 1\n\t\t\t}\n\n\t\t},\n\t\t\"Activity\": {\n\t\t\t\"Owner\": {\n\t\t\t\t\"DataValueType\": 10,\n\t\t\t\t\"ReferenceSchemaName\": \"Contact\",\n\t\t\t\t\"ReferenceColumnName\": \"Id\"\n\t\t\t},\n\t\t\t\"Id\": {\n\t\t\t\t\"DataValueType\": 0\n\t\t\t},\n\t\t\t\"Title\": {\n\t\t\t\t\"DataValueType\": 1\n\t\t\t},\n\t\t\t\"StartDate\": {\n\t\t\t\t\"DataValueType\": 8\n\t\t\t},\n\t\t\t\"DueDate\": {\n\t\t\t\t\"DataValueType\": 8\n\t\t\t}\n\t\t},\n\t\t\"Environment\": {\n\t\t\t\"ApplicationUrl\":{\n\t\t\t\t\"DataValueType\": 1\n\t\t\t},\n\t\t\t\"CurrentUser\":{\n\t\t\t\t\"DataValueType\": 1\n\t\t\t}\n\t\t}\n\t}\n}"
+        },
+        {
+          "SchemaColumnUId": "bf9497a7-6276-49f1-b7c0-121e2f8cf2b7",
+          "Value": "Creatio"
+        },
+        {
+          "SchemaColumnUId": "2e44c9ed-75ba-4c64-aa66-9830669a10ea",
+          "Value": "13ed7c55-d4b5-46ad-66ea-caf49772e3ab",
+          "DisplayValue": "null"
+        },
+        {
+          "SchemaColumnUId": "187bdef6-1563-4316-b4cd-989a554e0a9e",
+          "Value": "a3dcdd77-152e-4602-a711-69a434181818",
+          "DisplayValue": "null"
+        }
+      ]
+    }
+  ]
+}

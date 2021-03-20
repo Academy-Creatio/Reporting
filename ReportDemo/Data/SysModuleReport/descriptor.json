@@ -1,0 +1,126 @@
+﻿{
+  "Descriptor": {
+    "UId": "637c7179-edc8-e6d3-d12d-4e30df581b82",
+    "Name": "SysModuleReport",
+    "ModifiedOnUtc": "\/Date(1616166253000)\/",
+    "InstallType": 0,
+    "Schema": {
+      "UId": "0a62cd3d-6541-4c5c-903f-e5b0fc665297",
+      "Name": "SysModuleReport"
+    },
+    "Columns": [
+      {
+        "ColumnUId": "b6607c22-ca01-41f0-8637-610221a869b6",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "SysModule",
+        "DataTypeValueUId": "b295071f-7ea9-4e62-8d1a-919bf3732ff2"
+      },
+      {
+        "ColumnUId": "3b976c18-5bfe-482a-8ac1-a9377075a627",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "ShowInSection",
+        "DataTypeValueUId": "90b65bf8-0ffc-4141-8779-2420877af907"
+      },
+      {
+        "ColumnUId": "362bb0b0-d3da-4b01-abe6-a617e1b1257f",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "FileName",
+        "DataTypeValueUId": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd"
+      },
+      {
+        "ColumnUId": "5c6855ee-1bce-4a62-901b-50482def049b",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "HelpContextId",
+        "DataTypeValueUId": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd"
+      },
+      {
+        "ColumnUId": "9a75dacc-e0b6-456c-af91-1a1a369eaa3b",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "ShowInCard",
+        "DataTypeValueUId": "90b65bf8-0ffc-4141-8779-2420877af907"
+      },
+      {
+        "ColumnUId": "60588e53-4a6b-ea00-a7a9-a6340b8a3288",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "MacrosSettings",
+        "DataTypeValueUId": "c0f04627-4620-4bc0-84e5-9419dc8516b1"
+      },
+      {
+        "ColumnUId": "025ae038-8c4b-46b8-8d94-239ef3ac7911",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "ConvertInPDF",
+        "DataTypeValueUId": "90b65bf8-0ffc-4141-8779-2420877af907"
+      },
+      {
+        "ColumnUId": "1f17f6cb-8a86-408c-9207-d2f8b22ae1b7",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "SysOptionsPageSchemaUId",
+        "DataTypeValueUId": "23018567-a13c-4320-8687-fd6f9e3699bd"
+      },
+      {
+        "ColumnUId": "3fb83606-040e-4fdb-aeb6-a9357886dcb3",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "Caption",
+        "DataTypeValueUId": "325a73b8-0f47-44a0-8412-7606f78003ac"
+      },
+      {
+        "ColumnUId": "e6df7487-eab8-49eb-8f5b-e8a222db5de3",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "TypeColumnValue",
+        "DataTypeValueUId": "23018567-a13c-4320-8687-fd6f9e3699bd"
+      },
+      {
+        "ColumnUId": "cb6b495c-384d-4a40-9f93-35c6dfb79a3b",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "File",
+        "DataTypeValueUId": "ba40cfc5-f554-4c26-8f57-1bb29cf43c4e"
+      },
+      {
+        "ColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+        "IsForceUpdate": false,
+        "IsKey": true,
+        "ColumnName": "Id",
+        "DataTypeValueUId": "23018567-a13c-4320-8687-fd6f9e3699bd"
+      },
+      {
+        "ColumnUId": "8e01622f-e04b-480a-859a-01df55c30729",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "SysReportSchemaUId",
+        "DataTypeValueUId": "23018567-a13c-4320-8687-fd6f9e3699bd"
+      },
+      {
+        "ColumnUId": "b99f16cb-925d-48f2-94e9-98f9eb249048",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "AutoPreview",
+        "DataTypeValueUId": "90b65bf8-0ffc-4141-8779-2420877af907"
+      },
+      {
+        "ColumnUId": "94f2a9f7-55c7-4ecf-9b64-17583ddc058b",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "Type",
+        "DataTypeValueUId": "b295071f-7ea9-4e62-8d1a-919bf3732ff2"
+      },
+      {
+        "ColumnUId": "aba36b7e-96c2-4005-a9b9-64ceee36aaac",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "MacrosList",
+        "DataTypeValueUId": "c0f04627-4620-4bc0-84e5-9419dc8516b1"
+      }
+    ]
+  }
+}
